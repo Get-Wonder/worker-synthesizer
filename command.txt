@@ -1,0 +1,1 @@
+python3 app.py --phonetics "sca,ry,films,are,awe,some,fun" && exit

@@ -1,0 +1,3 @@
+file 'intro.wav'
+file 'tmp/name-44100.wav'
+file 'ending.wav'
